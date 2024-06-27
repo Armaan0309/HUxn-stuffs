@@ -1,10 +1,9 @@
-
-import Todo from "./Todo";
+import Recipe_Main from "./Recipe_Main";
 
 function App() {
   return (
     <>
-      <Todo/>
+      <Recipe_Main/>
     </>
   );
 }
