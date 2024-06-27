@@ -1,9 +1,12 @@
-import Recipe_Main from "./Recipe_Main";
+import Calculator from "./Calculator";
+
+
+
 
 function App() {
   return (
     <>
-      <Recipe_Main/>
+      <Calculator/>
     </>
   );
 }
