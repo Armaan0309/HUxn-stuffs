@@ -1,9 +1,9 @@
 import React from 'react'
-import Button_Color from './Button_Color';
+import Hidden_Search from './Hidden_Search';
 function App() {
   return (
     <>
-      <Button_Color/>
+      <Hidden_Search/>
     </>
   );
 }
