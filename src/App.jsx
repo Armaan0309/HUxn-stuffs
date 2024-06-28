@@ -1,9 +1,9 @@
 import React from 'react'
-import Hidden_Search from './Hidden_Search';
+import Testimonial from './Testimonial';
 function App() {
   return (
     <>
-      <Hidden_Search/>
+      <Testimonial/>
     </>
   );
 }
