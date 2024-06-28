@@ -1,9 +1,9 @@
 import React from 'react'
-import Testimonial from './Testimonial';
+import Form_validation from './Form_validation';
 function App() {
   return (
     <>
-      <Testimonial/>
+      <Form_validation/>
     </>
   );
 }
